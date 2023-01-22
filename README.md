@@ -1,16 +1,15 @@
-<h1 align="center">Hi there, I am Mei Sun 💗</h1>
+<h1 align="center">Hi there, I am Asher Duarte </h1>
 
-![](https://komarev.com/ghpvc/?username=meisun0107&color=ff69b4&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
+![](https://komarev.com/ghpvc/?username=dev81log&color=48c77f&label=🍻_Nice_To_Meet_U!_You+are+my+visitor+No.)
 <br>
-<h1>About me 🙋</h1>
+<h1>About me 🧑‍💻</h1>
 
-- 🎒 I'm a second-year graduate student.
-- 💻 I'm majoring in computer science.
-- 📚 I love Full-Stack developing.
-- 🎀 Pronouns: She/Her/Hers.
-- 🔥 Fun fact: I used to study in Sweden for 2 years.
+- 🎒 I am a graduate in IT and currently pursuing a MBA-FullCycle postgraduate degree.
+- 💻 I am specializing in Solution Architecture.
+- 📚 I love Full-Stack development and data.
+- 🔥 Fun fact: I have worked with virtual reality before. =/*
 - 🤙 More about me: 
-[![Linkedin](https://img.shields.io/badge/-Mei_Sun-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedIn.com/in/mei-sun-b928751a0/)
+[![Linkedin](https://img.shields.io/badge/-Asher_Duarte-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asher-duarte-36560513/)
 [![Instagram](https://img.shields.io/badge/-__momosunny-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/_momosunny/)
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:0107sun.mei@gmail.com)
 
