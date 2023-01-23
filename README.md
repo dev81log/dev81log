@@ -5,7 +5,7 @@
 <h1>About me 🧑‍💻</h1>
 
 - 🎒 I am a graduate in IT and currently pursuing a MBA-FullCycle postgraduate degree.
-- 💻 I am specializing in Solution Architecture.
+- 💻 I will be specializing in solution architecture.
 - 📚 I love Full-Stack development and data.
 - 🔥 Fun fact: I have worked with virtual reality before. =/*
 - 🤙 More about me: 
