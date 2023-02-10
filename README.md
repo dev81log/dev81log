@@ -27,7 +27,7 @@
   
 <h1>Let's listen 🎵</h1>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=setevfx)
+
 
 <br/>
 
