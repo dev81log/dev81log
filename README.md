@@ -24,6 +24,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev81log&theme=onedark)](https://git.io/streak-stats) 
   
 <h1>Let's listen 🎵</h1>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=setevfx)
 
 <br/>
